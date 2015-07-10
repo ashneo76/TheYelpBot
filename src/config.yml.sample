@@ -1,0 +1,21 @@
+bot:
+    name: "Your data"
+    username: "Your data"
+    key: "Your data"
+
+yelp:
+    consumer:
+        key: "Your data"
+        secret: "Your data"
+    token:
+        key: "Your data"
+        secret: "Your data"
+    api:
+        host: "Your data"
+        path:
+            search: "Your data"
+
+server:
+    host: "Your data"
+    port: "Your data"
+    env: "Your data"
